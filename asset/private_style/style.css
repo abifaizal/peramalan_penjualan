@@ -1,0 +1,45 @@
+body {
+	background-color: #7DC2AF;
+}
+.container {
+	margin-top: 170px;
+}
+.welcome {
+	text-align: center;
+	font-weight: bold;
+	padding: 50px;
+	font-size: 42px;
+}
+.form-login {
+	background-color: #7fc7b4;
+	border: 2px solid #528073;
+	padding: 15px 15px 30px 15px;
+	border-radius: 20px;
+	height: 330px;
+	box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 32px 0 rgba(0, 0, 0, 0.19);
+}
+.form-login h6{
+	text-align: center;
+}
+.tombol-login {
+	text-align: right;
+	padding-right: 15px;
+}
+.alert-gagal {
+	font-size: 12px;
+	padding: 2px;
+}
+
+@media (max-width: 991.98px) 
+{ 
+	.container {
+		margin-top: 0px;
+	}
+	.welcome {
+		font-size: 32px;
+		padding: 30px;
+	}
+	.form-login {
+		height: 295px;
+	}
+}
