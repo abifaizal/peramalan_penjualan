@@ -1,0 +1,34 @@
+.tabel-judul {
+	width: 100%;
+}
+.tabel-judul td {
+	width: 50%;
+}
+.tabel-judul .kolom-nama-apotek {
+	text-align: right;
+	padding-top: 5px;
+}
+.kolom-nama-apotek .nama-apotek {
+	font-weight: bold;
+}
+.tabel-keterangan-laporan {
+	width: 100%;
+	font-weight: bold;
+}
+.tabel-keterangan-laporan .nama-laporan{
+	font-size: 15px;
+}
+.tabel-keterangan-laporan .keterangan {
+	width: 20%;
+}
+.tabel-keterangan-laporan .isi-keterangan {
+	width: 80%;
+}
+.data-kosong {
+	border: 1px solid;
+	height: 100%;
+	font-size: 22px;
+	text-align: center;
+	vertical-align: middle;
+}
+

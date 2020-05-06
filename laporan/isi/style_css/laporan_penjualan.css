@@ -1,0 +1,107 @@
+.tabel-judul {
+	width: 100%;
+}
+.tabel-judul td {
+	width: 50%;
+}
+.tabel-judul .kolom-nama-apotek {
+	text-align: right;
+	padding-top: 5px;
+}
+.kolom-nama-apotek .nama-apotek {
+	font-weight: bold;
+}
+.tabel-keterangan-laporan {
+	width: 100%;
+	font-weight: bold;
+}
+.tabel-keterangan-laporan .nama-laporan{
+	font-size: 15px;
+}
+.tabel-keterangan-laporan .keterangan {
+	width: 20%;
+}
+.tabel-keterangan-laporan .isi-keterangan {
+	width: 80%;
+}
+.kotak-data-penjualan {
+	margin-top: 20px;
+	height: 90%;
+}
+.data-kosong {
+	border: 1px solid;
+	height: 100%;
+	font-size: 22px;
+	text-align: center;
+	vertical-align: middle;
+}
+.tabel-daftar-obat, .tabel-data-penjualan-rangkuman {
+	width: 100%;
+	max-width: 100%;
+}
+.tabel-nopenjualan td, .tabel-nopenjualan th {
+	padding: 3px;
+}
+.tabel-daftar-obat td, .tabel-daftar-obat th {
+	padding: 3px;
+}
+.tabel-data-penjualan-rangkuman td, .tabel-data-penjualan-rangkuman th {
+	padding: 7px 3px;
+}
+.tabel-daftar-obat th, .tabel-data-penjualan-rangkuman th {
+	text-align: center;
+	background-color: #d1d1d1;
+}
+.tabel-daftar-obat .kol-nmobat{
+	width: 40%;
+	max-width: 40%;
+}
+.tabel-daftar-obat .kol-hrgjual{
+	width: 20%;
+	max-width: 20%;
+}
+.tabel-daftar-obat .kol-jmljual{
+	width: 10%;
+	max-width: 10%;
+}
+.tabel-daftar-obat .kol-satjual{
+	width: 10%;
+	max-width: 10%;
+}
+.tabel-daftar-obat .kol-subt{
+	width: 20%;
+	max-width: 20%;
+}
+.tabel-daftar-obat .kol-jmljual, .tabel-daftar-obat .kol-satjual {
+	text-align: center;
+}
+.tabel-daftar-obat td.kol-hrgjual, .tabel-daftar-obat td.kol-subt {
+	text-align: right;
+}
+.tabel-daftar-obat .total-pjl, .tabel-data-penjualan-rangkuman .total-pjl{
+	text-align: right;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.tabel-data-penjualan-rangkuman td {
+	text-align: center;
+}
+.tabel-data-penjualan-rangkuman .kol-no {
+	width: 7%;
+}
+.tabel-data-penjualan-rangkuman .kol-nopjl {
+	width: 22%;
+}
+.tabel-data-penjualan-rangkuman .kol-tglpjl {
+	width: 21%;
+}
+.tabel-data-penjualan-rangkuman .kol-nmpeg {
+	width: 25%;
+}
+.tabel-data-penjualan-rangkuman .kol-totalpjl {
+	width: 25%;
+}
+.tabel-data-penjualan-rangkuman td.kol-totalpjl {
+	text-align: right;
+}

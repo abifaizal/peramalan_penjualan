@@ -1,0 +1,83 @@
+.page_header {
+	font-size: 8px;
+	font-style: italic;
+	text-align: right;
+}
+.page-content {
+	font-size: 12px;
+}
+.data-apotek {
+	width: 65%;
+	font-size: 14px;
+}
+.judul-surat {
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+table.data-nota {
+	width: 100%;
+}
+table.data-nota th, table.data-nota td{
+	padding: 3px;
+}
+
+.data-item {
+	width: 100%;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+.data-item th {
+	padding: 5px;
+	text-align: center;
+	background-color: #e8e8e8;
+}
+.data-item td {
+	padding: 7px;
+	text-align: center;
+	font-size: 10px;
+}
+
+.data-item-pembelian .col_no {
+	width: 7%;
+}
+.data-item-pembelian .col_nmobat {
+	width: 42%;
+}
+.data-item-pembelian .col_hrg {
+	width: 14%;
+}
+.data-item-pembelian .col_jml {
+	width: 10%;
+}
+.data-item-pembelian .col_sat {
+	width: 13%;
+}
+.data-item-pembelian .col_subt {
+	width: 14%;
+}
+.data-item-pembelian td.col_hrg, .data-item-pembelian td.col_subt, .data-item-pembelian td.col_tot {
+	font-style: italic;
+}
+
+.pernyataan {
+	margin: 15px 0;
+	line-height: 1.6;
+}
+
+.paraf {
+	margin-top: 5px;
+}
+.tabel-paraf {
+	width: 100%;
+}
+.tabel-paraf td {
+	width: 50%;
+}
+.tabel-paraf .kanan {
+	text-align: right;
+}
+.tabel-paraf .isi-paraf {
+	height: 55px;
+}

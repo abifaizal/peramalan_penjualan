@@ -1,0 +1,64 @@
+.tabel-judul {
+	width: 100%;
+}
+.tabel-judul .kolom-keterangan {
+	width: 60%;
+}
+.tabel-judul .kolom-nama-apotek {
+	text-align: right;
+	padding-top: 5px;
+	width: 40%;
+}
+.kolom-nama-apotek .nama-apotek {
+	font-weight: bold;
+}
+.tabel-keterangan-laporan{
+	width: 100%;
+}
+.tabel-keterangan-laporan {
+	width: 100%;
+	font-weight: bold;
+}
+.tabel-keterangan-laporan .nama-laporan{
+	font-size: 15px;
+}
+.tabel-keterangan-laporan .keterangan {
+	width: 35%;
+}
+.tabel-keterangan-laporan .isi-keterangan {
+	width: 64%;
+}
+
+.tabel-hasil {
+	width: 100%;
+}
+.tabel-hasil th {
+	background-color: #e6e6e6;
+}
+.tabel-hasil th, .tabel-hasil td{
+	padding: 3px;
+	text-align: center;
+	vertical-align: middle;
+}
+.tabel-hasil .nomor {
+	width: 6%;
+}
+.tabel-hasil .nama {
+	width: 27%;
+}
+.tabel-hasil .satuan {
+	width: 12%;
+}
+.tabel-hasil .mae {
+	width: 14%;
+}
+.tabel-hasil .mape {
+	width: 14%;
+}
+.tabel-hasil .msd {
+	width: 14%;
+}
+.tabel-hasil .hasil {
+	width: 13%;
+	font-weight: bold;
+}

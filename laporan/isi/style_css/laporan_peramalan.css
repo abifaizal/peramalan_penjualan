@@ -1,0 +1,75 @@
+.tabel-judul {
+	width: 100%;
+}
+.tabel-judul .kolom-keterangan {
+	width: 60%;
+}
+.tabel-judul .kolom-nama-apotek {
+	text-align: right;
+	padding-top: 5px;
+	width: 40%;
+}
+.kolom-nama-apotek .nama-apotek {
+	font-weight: bold;
+}
+.tabel-keterangan-laporan{
+	width: 100%;
+}
+.tabel-keterangan-laporan {
+	width: 100%;
+	font-weight: bold;
+}
+.tabel-keterangan-laporan .nama-laporan{
+	font-size: 15px;
+}
+.tabel-keterangan-laporan .keterangan {
+	width: 35%;
+}
+.tabel-keterangan-laporan .isi-keterangan {
+	width: 64%;
+}
+
+.tabel-periode {
+	width: 100%;
+}
+.tabel-periode {
+	width: 100%;
+}
+.tabel-periode th, .tabel-periode td{
+	padding: 3px;
+	text-align: center;
+	vertical-align: middle;
+}
+.tabel-periode .nomor{
+	width: 6%;
+}
+.tabel-periode .periode{
+	width: 15%;
+}
+.tabel-periode .terjual{
+	width: 14%;
+}
+.tabel-periode .ramalan{
+	width: 16%;
+}
+.tabel-periode .error{
+	width: 16%;
+}
+.tabel-perbandingan {
+	width: 100%;
+}
+.tabel-perbandingan th, .tabel-perbandingan td{
+	padding: 4px;
+	text-align: center;
+	vertical-align: middle;
+}
+.tabel-perbandingan td.lebih-kecil{
+	font-weight: bold;
+	background-color: #d6d6d6;
+}
+.tabel-perbandingan .keterangan-error{
+	width: 40%;
+}
+.tabel-perbandingan .moving-average{
+	width: 30%;
+}

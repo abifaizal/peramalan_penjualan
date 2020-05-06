@@ -1,0 +1,63 @@
+.tabel-nama-apotek-nopenjualan {
+	width: 100%;
+	font-size: 5px;
+}
+.tabel-nama-apotek-nopenjualan td {
+	width: 70%;
+}
+.tabel-nama-apotek-nopenjualan .nama_apotek {
+	font-weight: bold;
+}
+.tabel-nama-apotek-nopenjualan .nopenjualan {
+	font-weight: bold;
+	text-align: center;
+	vertical-align: middle;
+	padding: 3px;
+	width: 30%;
+}
+.tabel-data-penjualan .isi {
+	padding: 0 3px;
+}
+.data-penjualan {
+	border-bottom: 1px dotted #5c5c5c;
+}
+.data-barang {
+	border-bottom: 1px dashed #5c5c5c;
+}
+.tabel-data-barang {
+	width: 100%;
+}
+.tabel-data-barang td{
+	text-align: center;
+	padding: 0 2px;
+	vertical-align: middle;
+}
+.tabel-data-barang .nama_obat {
+	width: 40%;
+}
+.tabel-data-barang .jml_obat {
+	width: 5%;
+}
+.tabel-data-barang .sat_obat {
+	width: 15%;
+}
+.tabel-data-barang .hrg_obat {
+	width: 17%;
+}
+.tabel-data-barang .subt_obat {
+	width: 23%;
+}
+.tabel-data-barang .baris-total td, .tabel-data-barang .baris-tunai td, .tabel-data-barang .baris-kembali td{
+	text-align: right;
+}
+.tabel-data-barang .baris-total td {
+	padding-top: 3px;
+}
+.tabel-data-barang .baris-total td{
+	border-top: 1px dotted #5c5c5c;
+}
+.terimakasih {
+	font-size: 3px;
+	text-align: center;
+	padding: 4px;
+}
